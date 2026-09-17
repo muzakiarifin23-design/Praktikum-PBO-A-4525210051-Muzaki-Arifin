@@ -1,3 +1,4 @@
+package Pert02;
 /**
  * Program uji — JANGAN DIUBAH pada Langkah 1 sampai 4.
  * Kalau kode Anda benar, seluruh keluaran di bawah akan masuk akal.

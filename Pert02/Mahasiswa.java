@@ -1,3 +1,4 @@
+package Pert02;
 /**
  * Sesi 2 — enkapsulasi yang menjaga invariant.
  *
